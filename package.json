@@ -32,7 +32,6 @@
     "@types/express": "^4.17.21"
   }
 }
-// Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
     const hamburger = document.querySelector(".mobile-menu-toggle");
     const navMenu = document.querySelector(".nav-menu");
